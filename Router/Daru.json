@@ -1,0 +1,257 @@
+[
+
+    {
+        "name":"Printed Casual Shirt",
+        "price":250,
+        "reviews":200,
+        "stars":4.2,
+        "id":"Rohit1",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737718-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-1.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737697-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737673-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-3.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737656-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-4.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737656-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-4.jpg",
+        "category":"Shirt",
+        "stock":50,
+        "company":"Roadster",
+        "description":"Blue printed casual shirt, has a mandarin collar collar, button placket, long sleeves, curved hem",
+        "featured":true
+        
+    },
+
+    {
+        "name":"Slim Fit Casual Shirt",
+        "price":350,
+        "reviews":400,
+        "stars":4.6,
+        "id":"Rohit2",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19818628/2022/9/6/ec27eee6-d613-4423-8e0f-007aea1603c31662468109188Shirts1.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19818628/2022/9/6/380dfa31-097e-435a-bebb-b9e887be1e841662468109153Shirts2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19818628/2022/9/6/d7acbf47-6e27-4e70-8224-a3abc8be4fc51662468109171Shirts3.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19818628/2022/9/6/86a0089f-1615-41a2-b07f-86ea7e6bfd0d1662468109178Shirts4.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19818628/2022/9/6/86a0089f-1615-41a2-b07f-86ea7e6bfd0d1662468109178Shirts4.jpg",
+        "category":"Shirt",
+        "stock":100,
+        "company":"Roadster",
+        "description":"Black solid opaque Casual shirt ,has a spread collar, button placket, na pocket, short regular sleeves, straight hem",
+        "featured":true
+        
+    },
+
+
+    {
+        "name":"Minions by Kook N Keech",
+        "price":680,
+        "reviews":670,
+        "stars":4.1,
+        "id":"Rohit3",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8923841/2019/6/3/736b9f2c-3a49-41a9-828c-1e0218b62e431559550212164-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-1.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8923841/2019/6/3/7d2bb3b5-b6a9-4cac-ab1f-814071ac32f11559550212123-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-3.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8923841/2019/6/3/c8e2c851-ad44-4623-9df0-b03995554c431559550212101-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-4.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8923841/2019/6/3/361af51e-4174-419c-aebc-3bb80120d8f31559550212090-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-5.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/8923841/2019/6/3/361af51e-4174-419c-aebc-3bb80120d8f31559550212090-Minions-by-Kook-N-Keech-Men-Purple-Printed-Round-Neck-T-shir-5.jpg",
+        "category":"TShirt",
+        "stock":430,
+        "company":"Roadster",
+        "description":"Purple printed T-shirt, has a round neck, short sleeves",
+        "featured":true
+        
+    },
+
+
+    {
+        "name":"Men Navy Blue & Maroon Slim Fit Printed Pure Cotton Shirt",
+        "price":890,
+        "reviews":70,
+        "stars":4.5,
+        "id":"Rohit5",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19955414/2022/10/12/4339c9f9-c72c-4083-b85f-e8bbb7c0b31a1665554247559-Louis-Philippe-Men-Shirts-1521665554246967-1.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19955414/2022/10/12/1d8365cf-a9ef-4868-bbff-42989dd930d51665554247551-Louis-Philippe-Men-Shirts-1521665554246967-2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19955414/2022/10/12/c5df49ff-b487-4043-bab2-9ab6de445b9c1665554247540-Louis-Philippe-Men-Shirts-1521665554246967-3.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19955414/2022/10/12/e9266f62-f06d-46e9-83f2-55019324de691665554247530-Louis-Philippe-Men-Shirts-1521665554246967-4.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19955414/2022/10/12/e9266f62-f06d-46e9-83f2-55019324de691665554247530-Louis-Philippe-Men-Shirts-1521665554246967-4.jpg",
+        "category":"Shirt",
+        "stock":5440,
+        "company":"Louis Philippe",
+        "description":"Navy blue & maroon geometric printed shirt, has a spread collar, button placket, 1 patch pocket, long regular sleeves, curved hem"
+        
+    },
+
+
+    {
+        "name":"Men Navy Blue Polo Collar T-shirt",
+        "price":660,
+        "reviews":570,
+        "stars":4.3,
+        "id":"Rohit6",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14047672/2021/5/17/c1fd89a5-6364-4d0b-bde4-fcc0b7ddd1571621252467672-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-1.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14047672/2021/5/17/0d2634db-c116-4305-bb39-ca2cb76575bd1621252467653-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14047672/2021/5/17/4829edea-d10c-48bd-b035-a6763cdd790a1621252467629-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-3.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14047672/2021/5/17/d65b4316-e4ba-4ae5-9c37-6bff1035ed3a1621252467611-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-4.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14047672/2021/5/17/d65b4316-e4ba-4ae5-9c37-6bff1035ed3a1621252467611-Louis-Philippe-Men-Navy-Blue-Solid-Polo-Collar-T-shirt-71816-4.jpg",
+        "category":"TShirt",
+        "stock":2340,
+        "company":"Louis Philippe",
+        "description":"Navy Blue solid T-shirt, has a polo collar, and short sleeves"
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
