@@ -236,21 +236,21 @@
             },
             {
             
-                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737697-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-2.jpg",
+                "url": "https://i.postimg.cc/Mp4pXLBC/r3.jpg",
                 "id":"Rohit2"
 
               
             },
             {
               
-                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737673-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-3.jpg",
+                "url": "https://i.postimg.cc/FRd52CqZ/r1.jpg",
                 "id":"Rohit3"
 
              
             },
             {
                
-                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737656-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-4.jpg",
+                "url": "https://i.postimg.cc/br3zPV8F/r2.jpg",
                 "id":"Rohit4"
 
               
@@ -260,6 +260,49 @@
         "stock":100,
         "company":"Tommy Hilfigure",
         "description":"solid sweatshirt has a mock collar, long sleeves, closure, straight hem"
+        
+    },
+
+    {
+        "name":"Nauvari Saree",
+        "price":1999,
+        "reviews":130,
+        "stars":4.4,
+        "id":"Rohit8",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "https://i.postimg.cc/ZqBFyXMp/t4.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://i.postimg.cc/c4xRcvzs/t2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://i.postimg.cc/vTQVXK3P/t1.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://i.postimg.cc/Kz5KKNxt/t3.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://i.postimg.cc/ZqBFyXMp/t4.jpg",
+        "category":"Saree",
+        "stock":100,
+        "company":"Tommy Hilfigure",
+        "description":"The saree comes with a matching nauvari silk fabric blouse piece, which can be stitched as per your style & requirement."
         
     }
 
