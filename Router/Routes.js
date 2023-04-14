@@ -9,14 +9,4 @@ router.route('/take/:id').get(Daru1);
 
 
 
-
-
-
-
-
-
-
-
-
-
 module.exports=router;

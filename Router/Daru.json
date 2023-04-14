@@ -90,7 +90,7 @@
 
 
     {
-        "name":"Minions by Kook N Keech",
+        "name":"Minions Tshirt",
         "price":680,
         "reviews":670,
         "stars":4.1,
@@ -135,7 +135,7 @@
 
 
     {
-        "name":"Men Navy Blue & Maroon Slim Fit Printed Pure Cotton Shirt",
+        "name":"Men Navy Blue",
         "price":890,
         "reviews":70,
         "stars":4.5,
@@ -179,7 +179,7 @@
 
 
     {
-        "name":"Men Navy Blue Polo Collar T-shirt",
+        "name":"Blue Polo Collar T-shirt",
         "price":660,
         "reviews":570,
         "stars":4.3,
@@ -219,23 +219,49 @@
         "company":"Louis Philippe",
         "description":"Navy Blue solid T-shirt, has a polo collar, and short sleeves"
         
+    },
+    {
+        "name":"Cotton Hooded Sweatshirt",
+        "price":950,
+        "reviews":450,
+        "stars":4.9,
+        "id":"Rohit7",
+        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "images":[
+            {
+                
+                "url": "liquor-api-production.up.railway.app/profile/RohitBhatt_1681450327351.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737697-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737673-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-3.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1364628/2016/8/31/11472636737656-Roadster-Men-Blue-Regular-Fit-Printed-Casual-Shirt-6121472636737160-4.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"liquor-api-production.up.railway.app/profile/RohitBhatt_1681450327351.jpg",
+        "category":"Shirt",
+        "stock":100,
+        "company":"Tommy Hilfigure",
+        "description":"solid sweatshirt has a mock collar, long sleeves, closure, straight hem"
+        
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
