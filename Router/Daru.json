@@ -39,8 +39,7 @@
         "category":"Shirt",
         "stock":50,
         "company":"Roadster",
-        "description":"Blue printed casual shirt, has a mandarin collar collar, button placket, long sleeves, curved hem",
-        "featured":true
+        "description":"Blue printed casual shirt, has a mandarin collar collar, button placket, long sleeves, curved hem"
         
     },
 
@@ -50,7 +49,7 @@
         "reviews":400,
         "stars":4.6,
         "id":"Rohit2",
-        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "colors":["#FF7F50", "#6495ED", "#9FE2BF"],
         "images":[
             {
                 
@@ -83,8 +82,7 @@
         "category":"Shirt",
         "stock":100,
         "company":"Roadster",
-        "description":"Black solid opaque Casual shirt ,has a spread collar, button placket, na pocket, short regular sleeves, straight hem",
-        "featured":true
+        "description":"Black solid opaque Casual shirt ,has a spread collar, button placket, na pocket, short regular sleeves, straight hem"
         
     },
 
@@ -140,7 +138,7 @@
         "reviews":70,
         "stars":4.5,
         "id":"Rohit5",
-        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "colors":["#FF7F50", "#6495ED", "#9FE2BF"],
         "images":[
             {
                 
@@ -226,7 +224,7 @@
         "reviews":450,
         "stars":4.9,
         "id":"Rohit7",
-        "colors":["#ff0000", "#000000", "#CDD0D0"],
+        "colors":["#FF7F50", "#6495ED", "#9FE2BF"],
         "images":[
             {
                 
@@ -303,6 +301,49 @@
         "stock":100,
         "company":"Tommy Hilfigure",
         "description":"The saree comes with a matching nauvari silk fabric blouse piece, which can be stitched as per your style & requirement."
+        
+    },
+    
+    {
+        "name":"Designer Top",
+        "price":899,
+        "reviews":165,
+        "stars":4.7,
+        "id":"Rohit9",
+        "colors":["#FF7F50", "#6495ED", "#9FE2BF"],
+        "images":[
+            {
+                
+                "url": "https://i.postimg.cc/2ShyNCz9/a1.jpg",
+                "id":"Rohit1"
+             
+            },
+            {
+            
+                "url": "https://i.postimg.cc/bN2N1q2Y/a2.jpg",
+                "id":"Rohit2"
+
+              
+            },
+            {
+              
+                "url": "https://i.postimg.cc/k57Jr8YD/a3.jpg",
+                "id":"Rohit3"
+
+             
+            },
+            {
+               
+                "url": "https://i.postimg.cc/jqDJk0Jm/a4.jpg",
+                "id":"Rohit4"
+
+              
+            }],
+        "image":"https://i.postimg.cc/2ShyNCz9/a1.jpg",
+        "category":"Tops",
+        "stock":145,
+        "company":"Louis Philippe",
+        "description":"Navy blue and orange floral print woven regular top with lace-up detail, has a tie-up neck, and short sleeves."
         
     }
 
