@@ -300,7 +300,8 @@
         "category":"Saree",
         "stock":100,
         "company":"Tommy Hilfigure",
-        "description":"The saree comes with a matching nauvari silk fabric blouse piece, which can be stitched as per your style & requirement."
+        "description":"The saree comes with a matching nauvari silk fabric blouse piece, which can be stitched as per your style & requirement.",
+        "featured":true
         
     },
     
@@ -343,17 +344,11 @@
         "category":"Tops",
         "stock":145,
         "company":"Louis Philippe",
-        "description":"Navy blue and orange floral print woven regular top with lace-up detail, has a tie-up neck, and short sleeves."
+        "description":"Navy blue and orange floral print woven regular top with lace-up detail, has a tie-up neck, and short sleeves.",
+        "featured":true
+
         
     }
-
-
-
-
-
-
-
-
 
 
 
