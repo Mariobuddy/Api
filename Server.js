@@ -47,7 +47,7 @@ const storage=multer.diskStorage({
   
   app.use('/profile',express.static('./upload'));
   
-  app.post('/upload',upload.single('Teju'),(req,res)=>{
+  app.post('/upload',upload.single('all'),(req,res)=>{
     res.json({
       sucess:1,
       profile_url:`http://localhost:5000/profile/${req.file.filename}`
